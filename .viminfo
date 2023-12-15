@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1702637531,,"x"
+|2,0,1702640725,,"x"
+:X
+|2,0,1702640571,,"X"
 :s
 |2,0,1702637377,,"s"
 
@@ -27,38 +29,162 @@
 # Registers:
 
 # File marks:
-'0  8  24  ~/install_apache2.yml
-|4,48,8,24,1702637531,"~/install_apache2.yml"
-'1  12  20  ~/install_apache2.yml
-|4,49,12,20,1702637411,"~/install_apache2.yml"
-'2  9  20  ~/install_apache2.yml
-|4,50,9,20,1702637411,"~/install_apache2.yml"
-'3  12  27  ~/install_apache2.yml
-|4,51,12,27,1702637379,"~/install_apache2.yml"
-'4  9  27  ~/install_apache2.yml
-|4,52,9,27,1702637379,"~/install_apache2.yml"
-'5  12  6  ~/install_apache2.yml
-|4,53,12,6,1702636947,"~/install_apache2.yml"
-'6  12  6  ~/install_apache2.yml
-|4,54,12,6,1702636947,"~/install_apache2.yml"
-'7  9  6  ~/install_apache2.yml
-|4,55,9,6,1702636947,"~/install_apache2.yml"
-'8  9  6  ~/install_apache2.yml
-|4,56,9,6,1702636947,"~/install_apache2.yml"
-'9  12  20  ~/install_apache2.yml
-|4,57,12,20,1702636811,"~/install_apache2.yml"
+'0  18  20  ~/remove_apache2.yml
+|4,48,18,20,1702640725,"~/remove_apache2.yml"
+'1  17  20  ~/install_apache2.yml
+|4,49,17,20,1702640581,"~/install_apache2.yml"
+'2  16  7  ~/install_apache2.yml
+|4,50,16,7,1702640465,"~/install_apache2.yml"
+'3  16  7  ~/install_apache2.yml
+|4,51,16,7,1702640465,"~/install_apache2.yml"
+'4  16  30  ~/install_apache2.yml
+|4,52,16,30,1702640405,"~/install_apache2.yml"
+'5  16  30  ~/install_apache2.yml
+|4,53,16,30,1702640405,"~/install_apache2.yml"
+'6  1  0  ~/install_apache.yml
+|4,54,1,0,1702640317,"~/install_apache.yml"
+'7  8  24  ~/install_apache2.yml
+|4,55,8,24,1702637531,"~/install_apache2.yml"
+'8  8  24  ~/install_apache2.yml
+|4,56,8,24,1702637531,"~/install_apache2.yml"
+'9  8  24  ~/install_apache2.yml
+|4,57,8,24,1702637531,"~/install_apache2.yml"
 
 # Jumplist (newest first):
+-'  18  20  ~/remove_apache2.yml
+|4,39,18,20,1702640725,"~/remove_apache2.yml"
+-'  1  0  ~/remove_apache2.yml
+|4,39,1,0,1702640694,"~/remove_apache2.yml"
+-'  17  20  ~/install_apache2.yml
+|4,39,17,20,1702640581,"~/install_apache2.yml"
+-'  17  20  ~/install_apache2.yml
+|4,39,17,20,1702640581,"~/install_apache2.yml"
+-'  16  7  ~/install_apache2.yml
+|4,39,16,7,1702640556,"~/install_apache2.yml"
+-'  16  7  ~/install_apache2.yml
+|4,39,16,7,1702640556,"~/install_apache2.yml"
+-'  16  7  ~/install_apache2.yml
+|4,39,16,7,1702640465,"~/install_apache2.yml"
+-'  16  7  ~/install_apache2.yml
+|4,39,16,7,1702640465,"~/install_apache2.yml"
+-'  16  30  ~/install_apache2.yml
+|4,39,16,30,1702640405,"~/install_apache2.yml"
+-'  16  30  ~/install_apache2.yml
+|4,39,16,30,1702640405,"~/install_apache2.yml"
+-'  8  24  ~/install_apache2.yml
+|4,39,8,24,1702640320,"~/install_apache2.yml"
+-'  8  24  ~/install_apache2.yml
+|4,39,8,24,1702640320,"~/install_apache2.yml"
+-'  8  24  ~/install_apache2.yml
+|4,39,8,24,1702640320,"~/install_apache2.yml"
+-'  8  24  ~/install_apache2.yml
+|4,39,8,24,1702640320,"~/install_apache2.yml"
+-'  8  24  ~/install_apache2.yml
+|4,39,8,24,1702640320,"~/install_apache2.yml"
+-'  8  24  ~/install_apache2.yml
+|4,39,8,24,1702640320,"~/install_apache2.yml"
+-'  1  0  ~/install_apache.yml
+|4,39,1,0,1702640317,"~/install_apache.yml"
+-'  1  0  ~/install_apache.yml
+|4,39,1,0,1702640317,"~/install_apache.yml"
+-'  1  0  ~/install_apache.yml
+|4,39,1,0,1702640317,"~/install_apache.yml"
+-'  1  0  ~/install_apache.yml
+|4,39,1,0,1702640317,"~/install_apache.yml"
+-'  1  0  ~/install_apache.yml
+|4,39,1,0,1702640317,"~/install_apache.yml"
+-'  1  0  ~/install_apache.yml
+|4,39,1,0,1702640317,"~/install_apache.yml"
+-'  1  0  ~/install_apache.yml
+|4,39,1,0,1702640317,"~/install_apache.yml"
+-'  1  0  ~/install_apache.yml
+|4,39,1,0,1702640317,"~/install_apache.yml"
+-'  1  0  ~/install_apache.yml
+|4,39,1,0,1702640317,"~/install_apache.yml"
+-'  1  0  ~/install_apache.yml
+|4,39,1,0,1702640317,"~/install_apache.yml"
+-'  1  0  ~/install_apache.yml
+|4,39,1,0,1702640317,"~/install_apache.yml"
+-'  1  0  ~/install_apache.yml
+|4,39,1,0,1702640317,"~/install_apache.yml"
+-'  1  0  ~/install_apache.yml
+|4,39,1,0,1702640317,"~/install_apache.yml"
+-'  1  0  ~/install_apache.yml
+|4,39,1,0,1702640317,"~/install_apache.yml"
+-'  1  0  ~/install_apache.yml
+|4,39,1,0,1702640317,"~/install_apache.yml"
+-'  1  0  ~/install_apache.yml
+|4,39,1,0,1702640317,"~/install_apache.yml"
+-'  8  24  ~/install_apache2.yml
+|4,39,8,24,1702637531,"~/install_apache2.yml"
+-'  8  24  ~/install_apache2.yml
+|4,39,8,24,1702637531,"~/install_apache2.yml"
+-'  8  24  ~/install_apache2.yml
+|4,39,8,24,1702637531,"~/install_apache2.yml"
 -'  8  24  ~/install_apache2.yml
 |4,39,8,24,1702637531,"~/install_apache2.yml"
 -'  12  20  ~/install_apache2.yml
 |4,39,12,20,1702637473,"~/install_apache2.yml"
+-'  12  20  ~/install_apache2.yml
+|4,39,12,20,1702637473,"~/install_apache2.yml"
+-'  12  20  ~/install_apache2.yml
+|4,39,12,20,1702637473,"~/install_apache2.yml"
+-'  12  20  ~/install_apache2.yml
+|4,39,12,20,1702637473,"~/install_apache2.yml"
+-'  12  20  ~/install_apache2.yml
+|4,39,12,20,1702637473,"~/install_apache2.yml"
+-'  12  20  ~/install_apache2.yml
+|4,39,12,20,1702637473,"~/install_apache2.yml"
+-'  12  20  ~/install_apache2.yml
+|4,39,12,20,1702637473,"~/install_apache2.yml"
+-'  12  20  ~/install_apache2.yml
+|4,39,12,20,1702637473,"~/install_apache2.yml"
+-'  12  20  ~/install_apache2.yml
+|4,39,12,20,1702637473,"~/install_apache2.yml"
+-'  12  20  ~/install_apache2.yml
+|4,39,12,20,1702637473,"~/install_apache2.yml"
+-'  9  20  ~/install_apache2.yml
+|4,39,9,20,1702637411,"~/install_apache2.yml"
+-'  9  20  ~/install_apache2.yml
+|4,39,9,20,1702637411,"~/install_apache2.yml"
+-'  9  20  ~/install_apache2.yml
+|4,39,9,20,1702637411,"~/install_apache2.yml"
+-'  9  20  ~/install_apache2.yml
+|4,39,9,20,1702637411,"~/install_apache2.yml"
+-'  9  20  ~/install_apache2.yml
+|4,39,9,20,1702637411,"~/install_apache2.yml"
+-'  9  20  ~/install_apache2.yml
+|4,39,9,20,1702637411,"~/install_apache2.yml"
+-'  9  20  ~/install_apache2.yml
+|4,39,9,20,1702637411,"~/install_apache2.yml"
+-'  9  20  ~/install_apache2.yml
+|4,39,9,20,1702637411,"~/install_apache2.yml"
+-'  9  20  ~/install_apache2.yml
+|4,39,9,20,1702637411,"~/install_apache2.yml"
 -'  9  20  ~/install_apache2.yml
 |4,39,9,20,1702637411,"~/install_apache2.yml"
 -'  9  27  ~/install_apache2.yml
 |4,39,9,27,1702637379,"~/install_apache2.yml"
+-'  9  27  ~/install_apache2.yml
+|4,39,9,27,1702637379,"~/install_apache2.yml"
+-'  9  27  ~/install_apache2.yml
+|4,39,9,27,1702637379,"~/install_apache2.yml"
+-'  9  27  ~/install_apache2.yml
+|4,39,9,27,1702637379,"~/install_apache2.yml"
 -'  9  6  ~/install_apache2.yml
 |4,39,9,6,1702636947,"~/install_apache2.yml"
+-'  9  6  ~/install_apache2.yml
+|4,39,9,6,1702636947,"~/install_apache2.yml"
+-'  9  6  ~/install_apache2.yml
+|4,39,9,6,1702636947,"~/install_apache2.yml"
+-'  9  6  ~/install_apache2.yml
+|4,39,9,6,1702636947,"~/install_apache2.yml"
+-'  9  20  ~/install_apache2.yml
+|4,39,9,20,1702636811,"~/install_apache2.yml"
+-'  9  20  ~/install_apache2.yml
+|4,39,9,20,1702636811,"~/install_apache2.yml"
+-'  9  20  ~/install_apache2.yml
+|4,39,9,20,1702636811,"~/install_apache2.yml"
 -'  9  20  ~/install_apache2.yml
 |4,39,9,20,1702636811,"~/install_apache2.yml"
 -'  1  0  ~/install_apache2.yml
@@ -71,6 +197,48 @@
 |4,39,1,0,1702636601,"~/install_apache2.yml"
 -'  1  0  ~/install_apache2.yml
 |4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
+-'  1  0  ~/install_apache2.yml
+|4,39,1,0,1702636601,"~/install_apache2.yml"
 -'  4  0  ~/ansible.cfg
 |4,39,4,0,1702633034,"~/ansible.cfg"
 -'  4  0  ~/ansible.cfg
@@ -83,185 +251,37 @@
 |4,39,4,0,1702633034,"~/ansible.cfg"
 -'  4  0  ~/ansible.cfg
 |4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702633034,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  4  0  ~/ansible.cfg
-|4,39,4,0,1702632848,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
--'  3  32  ~/ansible.cfg
-|4,39,3,32,1702632809,"~/ansible.cfg"
 
 # History of marks within files (newest to oldest):
 
+> ~/remove_apache2.yml
+	*	1702640724	0
+	"	18	20
+	^	18	21
+	.	18	20
+	+	13	20
+	+	18	20
+
 > ~/install_apache2.yml
-	*	1702637530	0
-	"	8	24
-	^	8	25
-	.	8	24
+	*	1702640578	0
+	"	17	20
+	^	18	0
+	.	18	0
 	+	12	5
 	+	10	5
 	+	11	5
 	+	12	21
 	+	8	24
+	+	15	9
+	+	16	5
+	+	14	5
+	+	15	5
+	+	16	32
+	+	18	0
+
+> ~/install_apache.yml
+	*	1702640315	0
+	"	1	0
 
 > ~/ansible.cfg
 	*	1702633033	0
