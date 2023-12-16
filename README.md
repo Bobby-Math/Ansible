@@ -1,2 +1,2 @@
-Welcome to the Ansible Deep Dive
+Welcome to the Ansible Deep Dive.
 
